@@ -1,6 +1,6 @@
 #pragma once
 
-#defina TIMESPAN_H
+#define TIMESPAN_H
 
 class TimeSpan {
 	unsigned int hours;
